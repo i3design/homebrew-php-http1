@@ -12,5 +12,5 @@
 Run the following in your command-line:
 
 ```console
-$ brew tap seiyakubo/homebrew-php-http1
+$ brew tap i3design/homebrew-php-http1
 ```
